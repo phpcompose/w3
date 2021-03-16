@@ -1,0 +1,12 @@
+{
+    "name": "phpcompose/w3",
+    "description": "WWW extension to PHP Compose library",
+    "authors": [
+        {
+            "name": "Alamin Ahmed",
+            "email": "alamin3000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
